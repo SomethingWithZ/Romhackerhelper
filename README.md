@@ -4,5 +4,5 @@ A tool made to assist in romhacking SF3. Supports general data address searching
 3. - Position Adjustment (Not implemented yet but still selectable.)
 
 Planned features: <br />
-Position Adjustment (or tweak motion) index address finder. <br />
-Acceleration Address Finder.
+- Position Adjustment (or tweak motion) index address finder. <br />
+- Acceleration Address Finder.
